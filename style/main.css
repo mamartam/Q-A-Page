@@ -1,0 +1,181 @@
+.one,
+.two,
+.tree,
+.four,
+.five,
+.six,
+.seven,
+.eight,
+.nine,
+.ten,
+.eleven,
+.twelve,
+.thirteen,
+.fourteen,
+.fifteen,
+.sixteen,
+.eighteen {
+  position: absolute;
+  border-radius: 50%;
+  filter: blur(30px);
+  z-index: -1; }
+
+.one,
+.two,
+.tree,
+.four {
+  background-color: violet; }
+
+.five,
+.six,
+.seven,
+.eight {
+  background-color: aquamarine; }
+
+.nine,
+.ten,
+.eleven,
+.twelve {
+  background-color: #7f92ff; }
+
+.fourteen,
+.fifteen,
+.sixteen,
+.eighteen {
+  background-color: #f6ff7f; }
+
+.one {
+  width: 200px;
+  height: 200px;
+  top: 0;
+  right: 50%; }
+
+.two {
+  width: 150px;
+  height: 150px;
+  top: 0;
+  right: 47%; }
+
+.three {
+  width: 150px;
+  height: 150px;
+  top: 20%;
+  right: 55%; }
+
+.four {
+  width: 150px;
+  height: 150px;
+  top: 20%;
+  right: 60%; }
+
+.five {
+  width: 200px;
+  height: 200px;
+  top: 0%;
+  right: 0%; }
+
+.six {
+  width: 200px;
+  height: 200px;
+  top: 0%;
+  right: 10%; }
+
+.seven {
+  width: 200px;
+  height: 200px;
+  top: 10%;
+  right: 10%; }
+
+.eight {
+  width: 150px;
+  height: 150px;
+  top: 20%;
+  right: 15%; }
+
+.nine {
+  width: 150px;
+  height: 150px;
+  top: 25%;
+  right: 20%; }
+
+.ten {
+  width: 300px;
+  height: 300px;
+  bottom: 0;
+  right: 20%; }
+
+.eleven {
+  width: 250px;
+  height: 250px;
+  bottom: 5%;
+  right: 10%; }
+
+.twelve {
+  width: 200px;
+  height: 200px;
+  bottom: 5%;
+  right: 20%; }
+
+.fourteen {
+  width: 200px;
+  height: 200px;
+  bottom: 5%;
+  left: 20%; }
+
+.fifteen {
+  width: 200px;
+  height: 200px;
+  bottom: 4%;
+  left: 15%; }
+
+.sixteen {
+  width: 200px;
+  height: 200px;
+  bottom: 0;
+  left: 5%; }
+
+.eighteen {
+  width: 200px;
+  height: 200px;
+  bottom: 10%;
+  left: 5%; }
+
+.page {
+  width: 100%;
+  height: 100vh;
+  /* background-color: black; */
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+
+.page div {
+  width: 60%;
+  background-color: blue;
+  padding: 15px; }
+
+.page div h1 {
+  font-family: 'Bebas Neue';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 115px;
+  text-align: center;
+  color: #000000; }
+
+details summary {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+  color: #000000; }
+
+details p {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 26px;
+  color: #000000; }
+
+/*# sourceMappingURL=main.css.map */
