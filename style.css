@@ -1,0 +1,258 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.one {
+    background-color: violet;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 0;
+    right: 50%;
+    border-radius: 50%;
+    filter: blur(30px);
+    z-index: -1;
+}
+
+.two {
+    background-color: violet;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 0;
+    right: 47%;
+    border-radius: 50%;
+    filter: blur(30px);
+    z-index: -1;
+
+}
+
+.three {
+    background-color: violet;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 20%;
+    right: 55%;
+    border-radius: 50%;
+    filter: blur(30px);
+    z-index: -1;
+
+}
+
+.four {
+    background-color: violet;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 20%;
+    right: 60%;
+    border-radius: 50%;
+    filter: blur(30px);
+    z-index: -1;
+
+}
+
+.five {
+    background-color: aquamarine;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 0%;
+    right: 0%;
+    border-radius: 50%;
+    filter: blur(30px);
+    z-index: -1;
+
+}
+
+.six {
+    background-color: aquamarine;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 0%;
+    right: 10%;
+    border-radius: 50%;
+    filter: blur(30px);
+    z-index: -1;
+
+}
+
+.seven {
+    background-color: aquamarine;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 10%;
+    right: 10%;
+    border-radius: 50%;
+    filter: blur(30px);
+    z-index: -1;
+
+}
+
+.eight {
+    background-color: aquamarine;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 20%;
+    right: 15%;
+    border-radius: 50%;
+    filter: blur(30px);
+    z-index: -1;
+
+}
+
+.nine {
+    background-color: aquamarine;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 25%;
+    right: 20%;
+    border-radius: 50%;
+    filter: blur(30px);
+    z-index: -1;
+
+}
+
+.ten {
+    background-color: rgb(127, 146, 255);
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    bottom: 0;
+    right: 20%;
+    border-radius: 50%;
+    filter: blur(30px);
+    z-index: -1;
+
+}
+
+.eleven {
+    background-color: rgb(127, 146, 255);
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    bottom: 5%;
+    right: 10%;
+    border-radius: 50%;
+    filter: blur(30px);
+    z-index: -1;
+
+}
+
+.twelve {
+    background-color: rgb(127, 146, 255);
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    bottom: 5%;
+    right: 20%;
+    border-radius: 50%;
+    filter: blur(30px);
+    z-index: -1;
+
+}
+
+.fourteen {
+    background-color: rgb(246, 255, 127);
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    bottom: 5%;
+    left: 20%;
+    border-radius: 50%;
+    filter: blur(30px);
+    z-index: -1;
+
+}
+
+.fifteen {
+    background-color: rgb(246, 255, 127);
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    bottom: 4%;
+    left: 15%;
+    border-radius: 50%;
+    filter: blur(30px);
+    z-index: -1;
+
+}
+
+.sixteen {
+    background-color: rgb(246, 255, 127);
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    bottom: 0;
+    left: 5%;
+    border-radius: 50%;
+    filter: blur(30px);
+    z-index: -1;
+
+}
+
+.eighteen {
+    background-color: rgb(246, 255, 127);
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    bottom: 10%;
+    left: 5%;
+    border-radius: 50%;
+    filter: blur(30px);
+    z-index: -1;
+
+}
+
+.page {
+    width: 100%;
+    height: 100vh;
+    /* background-color: black; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.page div {
+    width: 60%;
+    /* height: 500px; */
+    background-color: blue;
+    padding: 15px;
+}
+
+.page div h1 {
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 115px;
+    text-align: center;
+    color: #000000;
+}
+
+details summary {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+
+}
+
+details p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    color: #000000;
+}
